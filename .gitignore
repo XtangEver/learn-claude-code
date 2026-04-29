@@ -2,10 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+.vscode
 # C extensions
 *.so
 
+*.github/
 # Distribution / packaging
 .Python
 build/
